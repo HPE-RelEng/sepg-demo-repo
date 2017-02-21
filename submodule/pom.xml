@@ -11,7 +11,7 @@
     <artifactId>submodule</artifactId>
     <version>12.44.0-SNAPSHOT</version>    
     <packaging>pom</packaging>
-
+<!--
     <dependencies>
         <dependency>
             <groupId>com.hpe.caf.worker</groupId>
@@ -19,7 +19,7 @@
             <version>1.0.0-SNAPSHOT</version>
         </dependency>
     </dependencies>        
-
+-->
     
     <ciManagement>
         <system>hudson</system>
