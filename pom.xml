@@ -11,13 +11,13 @@
         <module>submodule</module>
     </modules>
 
-    <dependencies>
+<!--    <dependencies>
         <dependency>
             <groupId>com.hpe.caf.worker</groupId>
             <artifactId>worker-msgextract</artifactId>
             <version>1.0.0-SNAPSHOT</version>
         </dependency>
-    </dependencies>   
+    </dependencies>   -->
 
     <ciManagement>
         <system>hudson</system>
