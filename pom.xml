@@ -36,7 +36,8 @@
         <snapshotRepository>
             <id>HPEsnapshots</id>
             <name>HPE Sunnyvale Artifactory Snapshots</name>
-            <url>http://16.30.182.48:8081/artifactory/lib-test</url>
+            //<url>http://16.30.182.48:8081/artifactory/lib-test</url>
+            <url>http://oss.sonatype.org/artifactory/lib-test</url>
         </snapshotRepository>
     </distributionManagement>
 
