@@ -24,7 +24,6 @@
         <url>http://cafbuilder.hpeswlab.net:8080/job/caf-maven-latest/</url>
     </ciManagement>
     <!-- Test3 -->    
-<!-- Test3 -->    
    
          
         <distributionManagement>
