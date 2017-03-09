@@ -23,7 +23,7 @@
         <system>hudson</system>
         <url>http://cafbuilder.hpeswlab.net:8080/job/caf-maven-latest/</url>
     </ciManagement>
-    <!-- Test3 --><!--Test4 --><!--Test4 --><!--Test4 --><!--branch5 --><!--branch6 -->
+    <!-- Test3 --><!--Test4 --><!--Test4 --><!--Test4 --><!--branch7 --><!--branch6 -->
    
          
         <distributionManagement>
