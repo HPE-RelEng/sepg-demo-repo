@@ -1,1 +1,2 @@
 DISABLE_AUTOTAGGING=true
+RELEASE_ASSET_TO_ZIP=deployment.zip:submodule
