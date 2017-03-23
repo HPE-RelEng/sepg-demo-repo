@@ -1,2 +1,2 @@
 DISABLE_AUTOTAGGING=true
-RELEASE_ASSETS=deployment.zip:submodule,deployFiles.zip:deployFiles,Deploy With Space.zip:SubFolder-Spaced,subfolder.zip:deployFiles/subfolder
+RELEASE_ASSETS=deployFiles.zip:deployFiles
