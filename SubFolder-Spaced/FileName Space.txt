@@ -1,1 +1,2 @@
 Another test file with a space
+An occurence of the version number: 12.62.0-SNAPSHOT
